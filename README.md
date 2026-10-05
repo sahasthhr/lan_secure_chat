@@ -5,7 +5,7 @@ A complete **Computer Networks (CN)** project implementing a **LAN-Based Secure 
 ## Quick Start
 
 ### 1. Run the Main Server + Web Dashboard
-```powershell
+```powershel
 python app.py
 ```
 Then open **[http://localhost:8080](http://localhost:8080)** in your browser (or `http://<YOUR-LAN-IP>:8080` from any other laptop/phone on the same Wi-Fi/Hotspot).
